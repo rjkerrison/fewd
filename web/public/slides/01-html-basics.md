@@ -19,49 +19,23 @@ In this lesson, you will:
 
 ---
 
-## Meet the Team - Abigail Coe
+## Meet the Team - Robin James Kerrison
 
-- <a href="https://red-badger.com/people/abigail-coe/" class='external-link' target="_blank" rel="noreferrer">Software Engineer at Red Badger</a>
-- Former Antiques Conservator
-- General Assembly 2016
-- World’s second best crochet artist
-- Humble
-- English Lit graduate
-- <a class='external-link' target="_blank" rel="noreferrer" href="https://en.wikipedia.org/wiki/Oolong">Oolong</a> nerd
-- Not as much of a dork as that all sounds
-
----
-
-## Meet the Team - Alex Wheldon
-
-- Automation Engineer at <a href="https://www.splashworldwide.com/" class='external-link' target="_blank" rel="noreferrer">Splash</a>
-- Used to work in account management at advertising production agencies
-- GA Alumni 2020
-- Unashamedly love Lego
-- Crossing all fingers that I can finally go see live music again this year
+- Software Engineer at <a href="https://talent.io" class='external-link' target="_blank" rel="noreferrer">talent.io</a>
+- Based in Paris
+- Previously with Red Badger in London
+- General Assembly [instructor since 2020](https://generalassemb.ly/instructors/robin-james-kerrison/25076)
+- Originally from Newcastle
+- Created a club at school for learning HTML and CSS at the age of 12
+- Maths graduate
 
 ---
 
-## Meet the Team - Declan Slevin
+## Meet the Team - André Kovac
 
-- <a href="https://red-badger.com/people/declan-slevin/" class='external-link' target="_blank" rel="noreferrer">Test Lead at Red Badger</a>
-- Currently transitioning to become a Junior Software Engineer
-- Fun fact: Pedro and I joined Red Badger a week apart and worked together on the RB internal site as our first project
-- Completed the FEWD course at General Assembly in 2019
-- Studied digital film-making, animation and visual effects at university
-- Unabashed emo-kid/metalhead and video/board game nerd
-
----
-
-## Meet the Team - Pedro Martin
-
-- [Software engineer at Red Badger.](https://red-badger.com/people/pedro-martin/)
-- Former science teacher.
-- General Assembly alumni 2015.
-- [Teaching courses and workshops at General Assembly since 2015.](https://generalassemb.ly/instructors/pedro-martin/7012)
-- Originally from Caracas, Venezuela 🇻🇪.
-- [Former Rope Access Technician (RAT 🐀).](https://www.theguardian.com/artanddesign/2015/jul/20/hanging-by-thread-rats-keep-skyscrapers-standing)
-- Hardcore Star Wars fan.
+- Open source contributor at [explainprogramming.com](https://explainprogramming.com]
+- Conference speaker at React 2019 and others
+- CTO & Lead Engineer on Easy Mileage Tracker and Proxipedia
 
 ---
 
@@ -100,7 +74,7 @@ In this lesson, you will:
 
 - Throughout the course we'll be creating lots of small projects to learn the various languages and techniques.
 
-- The goal is to work towards creating a final project of your choosing and presenting it to the class on the final session
+- The goal is to work towards creating a final project of your choosing and presenting it to the class in the final session
 
 ---
 
@@ -147,7 +121,7 @@ In this lesson, you will:
 
 ---
 
-## Install Fest
+## Install O'Clock
 
 ### Tools We’ll Use
 
@@ -159,7 +133,7 @@ In this lesson, you will:
 
 ---
 
-## Install Fest
+## Install O'Clock
 
 ### Step by Step
 
