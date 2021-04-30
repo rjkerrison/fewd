@@ -1,14 +1,16 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c63e8be2-655b-4bd5-b18e-a5c2fae4d0c9/deploy-status)](https://app.netlify.com/sites/eager-agnesi-05fdb0/deploys)![CI](https://github.com/pataruco/fewd/workflows/CI/badge.svg)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c63e8be2-655b-4bd5-b18e-a5c2fae4d0c9/deploy-status)](https://app.netlify.com/sites/eager-agnesi-05fdb0/deploys)![CI](https://github.com/rjkerrison/fewd/workflows/CI/badge.svg)
 
 # FEWD
 
 ## What it is?
 
-Is a **monorepo** with content for Front-end Web Development course for [General Assembly London][ga] 🇬🇧
+Is a **monorepo** with content for Front-end Web Development course for [General Assembly London][ga] 🇬🇧.
+
+It is forked from [pataruco/fewd][fork].
 
 It is divided:
 
-- [Web ](./web/readme.md): [React][react] app hosted in [Netlify][netlify] with the custom domain [**https://fewd.pataruco.dev**][site]
+- [Web ](./web/readme.md): [React][react] app hosted in [Netlify][netlify] with the custom domain [**https://fewd.rjkerrison.co.uk**][site]
 - [Labs](./labs/readme.md): Labs & exercises for each lesson
 - [Homeworks](./homeworks/readme.md): Exercises for students outside class
 
@@ -17,7 +19,7 @@ It is divided:
 - Clone this repo
 
   ```sh
-  git clone git@github.com:pataruco/fewd.git
+  git clone git@github.com:rjkerrison/fewd.git
   ```
 
 - Install dependencies
@@ -48,7 +50,7 @@ A [Github action][gh-actions] is set to deal with deployments to prod. To trigge
   git push --tags
   ```
 
-- You can check CI/CD build [here](https://github.com/pataruco/fewd/actions?query=workflow%3ACI)
+- Check the [CI/CD build][ci-build] is running
 
 - Make a tea 🫖
 
@@ -63,4 +65,6 @@ A [Github action][gh-actions] is set to deal with deployments to prod. To trigge
 [remark]: https://github.com/gnab/remark/
 [remark-syntax]: https://github.com/gnab/remark/wiki/Markdown
 [git-tag]: https://git-scm.com/book/en/v2/Git-Basics-Tagging
-[site]: https://fewd.pataruco.dev/
+[site]: https://fewd.rjkerrison.co.uk/
+[fork]: https://github.com/pataruco/fewd
+[ci-build]: https://github.com/rjkerrison/fewd/actions?query=workflow%3ACI
