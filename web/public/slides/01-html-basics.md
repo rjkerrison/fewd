@@ -23,6 +23,7 @@ In this lesson, you will:
 
 - Software Engineer at <a href="https://talent.io" class='external-link' target="_blank" rel="noreferrer">talent.io</a>
 - Based in Paris
+- Frontend and Backend Software Developer
 - Previously with Red Badger in London
 - General Assembly [instructor since 2020](https://generalassemb.ly/instructors/robin-james-kerrison/25076)
 - Originally from Newcastle
@@ -33,8 +34,10 @@ In this lesson, you will:
 
 ## Meet the Team - André Kovac
 
-- Open source contributor at [explainprogramming.com](https://explainprogramming.com]
-- Conference speaker at React 2019 and others
+- Based in Berlin
+- Freelance Software Engineer, Data Scientist, React Native Coach and Science Communicator
+- Open source contributor at [explainprogramming.com](https://explainprogramming.com)
+- Conference speaker at React 2019 etc
 - CTO & Lead Engineer on Easy Mileage Tracker and Proxipedia
 
 ---
@@ -422,9 +425,9 @@ Are self closing elements
 
 ## Code along
 
-### [Press release exercise ](https://github.com/pataruco/fewd/raw/master/labs/press-release/press-release-starter-code.zip)
+### [Press release exercise](https://github.com/rjkerrison/fewd/raw/master/labs/press-release/press-release-starter-code.zip)
 
-> [solution](https://github.com/pataruco/fewd/raw/master/labs/press-release/press-release-solution-code.zip)
+> [solution](https://github.com/rjkerrison/fewd/raw/master/labs/press-release/press-release-solution-code.zip)
 
 ---
 

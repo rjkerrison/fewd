@@ -232,11 +232,11 @@ Conditionals make programs harder to debug because more operations can take plac
 
 ## Drum kit
 
-> [Starter code](https://github.com/pataruco/fewd/raw/master/labs/drum-kit/drum-kit-starter-code.zip)
+> [Starter code](https://github.com/rjkerrison/fewd/raw/master/labs/drum-kit/drum-kit-starter-code.zip)
 
 ???
 
-[Solution code](https://github.com/pataruco/fewd/raw/master/labs/drum-kit/drum-kit-solution-code.zip)
+[Solution code](https://github.com/rjkerrison/fewd/raw/master/labs/drum-kit/drum-kit-solution-code.zip)
 
 ---
 

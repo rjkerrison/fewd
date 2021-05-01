@@ -228,7 +228,7 @@ The <code>&lt;tfoot&gt;</code> tag is used finally to present any extra data.
 
 Try building out your own table of the best NBA superteams of all time.
 
-[starter code](https://github.com/pataruco/fewd/raw/master/labs/table/table-starter-code.zip)
+[starter code](https://github.com/rjkerrison/fewd/raw/master/labs/table/table-starter-code.zip)
 
 ---
 

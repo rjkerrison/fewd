@@ -123,7 +123,7 @@ div {
 
 ### Tag boxes
 
-Please download the [starter code](https://github.com/pataruco/fewd/raw/master/labs/tag-boxes/tag-boxes-starter-code.zip)
+Please download the [starter code](https://github.com/rjkerrison/fewd/raw/master/labs/tag-boxes/tag-boxes-starter-code.zip)
 
 ---
 
@@ -169,7 +169,7 @@ Next time we'll learn more specific types of selectors.
 
 ## Lab &#x1F9EA;
 
-[Nested selectors](https://github.com/pataruco/fewd/raw/master/labs/nested-selectors/nested-selectors-starter-code.zip)
+[Nested selectors](https://github.com/rjkerrison/fewd/raw/master/labs/nested-selectors/nested-selectors-starter-code.zip)
 
 ---
 
