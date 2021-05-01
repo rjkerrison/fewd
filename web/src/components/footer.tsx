@@ -100,6 +100,14 @@ const Footer: React.FC = () => (
       by{' '}
       <a href="https://github.com/pataruco" target="_blank" rel="noreferrer">
         @pataruco
+      </a>
+      {', '}
+      <a href="https://github.com/rjkerrison" target="_blank" rel="noreferrer">
+        @rjkerrison
+      </a>
+      {' and '}
+      <a href="https://github.com/andrekovac" target="_blank" rel="noreferrer">
+        @andrekovac
       </a>{' '}
       {new Date().getFullYear()}
     </p>

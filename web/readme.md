@@ -57,4 +57,4 @@ All labs are stored in the [labs package](../labs/readme.md)
 [remark]: https://github.com/gnab/remark/
 [remark-syntax]: https://github.com/gnab/remark/wiki/Markdown
 [git-tag]: https://git-scm.com/book/en/v2/Git-Basics-Tagging
-[site]: https://fewd.pataruco.dev/
+[site]: https://fewd.rjkerrison.co.uk/

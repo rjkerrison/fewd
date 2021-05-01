@@ -252,11 +252,11 @@ _"Use the remainder of the space left over after the fixed-width units."_
 
 ### Lab &#x1F9EA;
 
-- [Starter code](https://github.com/pataruco/fewd/raw/master/labs/grid/grid-starter-code.zip)
+- [Starter code](https://github.com/rjkerrison/fewd/raw/master/labs/grid/grid-starter-code.zip)
 
 ???
 
-- Solution code https://github.com/pataruco/fewd/raw/master/labs/grid/grid-solution-code.zip
+- Solution code https://github.com/rjkerrison/fewd/raw/master/labs/grid/grid-solution-code.zip
 
 ---
 

@@ -399,11 +399,11 @@ Building actual components means taking everything you know and putting it toget
 
 ## Hamburguer menu
 
-[Starter code](https://github.com/pataruco/fewd/raw/master/labs/hamburguer-menu/hamburguer-menu-starter-code.zip)
+[Starter code](https://github.com/rjkerrison/fewd/raw/master/labs/hamburguer-menu/hamburguer-menu-starter-code.zip)
 
 ???
 
-Solution code https://github.com/pataruco/fewd/raw/master/labs/hamburguer-menu/hamburguer-menu-solution-code.zip
+Solution code https://github.com/rjkerrison/fewd/raw/master/labs/hamburguer-menu/hamburguer-menu-solution-code.zip
 
 ---
 

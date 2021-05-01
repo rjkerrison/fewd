@@ -320,7 +320,7 @@ There are many events that occur in the browser as the user interacts with the p
 
 ### Color switcher
 
-> [Starter code](https://github.com/pataruco/fewd/raw/master/labs/color-switcher/color-switcher-starter-code.zip)
+> [Starter code](https://github.com/rjkerrison/fewd/raw/master/labs/color-switcher/color-switcher-starter-code.zip)
 
 ---
 
@@ -328,7 +328,7 @@ There are many events that occur in the browser as the user interacts with the p
 
 ### Traffic lights
 
-> [Starter code](https://github.com/pataruco/fewd/raw/master/labs/traffic-lights/traffic-lights-starter-code.zip)
+> [Starter code](https://github.com/rjkerrison/fewd/raw/master/labs/traffic-lights/traffic-lights-starter-code.zip)
 
 ---
 

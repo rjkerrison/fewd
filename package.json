@@ -1,8 +1,12 @@
 {
   "name": "fewd",
   "version": "1.0.0",
-  "repository": "git@github.com:pataruco/fewd.git",
+  "repository": "git@github.com:rjkerrison/fewd.git",
   "author": "Pedro Martin <pataruco@gmail.com>",
+  "contributors": [
+    "Robin James Kerrison <7150842+rjkerrison@users.noreply.github.com>",
+    "André Kovac <1945462+andrekovac@users.noreply.github.com>"
+  ],
   "license": "MIT",
   "private": true,
   "devDependencies": {
