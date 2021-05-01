@@ -1,8 +1,8 @@
 name: CI
 on:
   push:
-    tags:
-      - 'R*'
+    branches:
+      - 'master'
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
