@@ -35,10 +35,38 @@ In this lesson, you will:
 ## Meet the Team - André Kovac
 
 - Based in Berlin
-- Freelance Software Engineer, Data Scientist, React Native Coach and Science Communicator
-- Open source contributor at [explainprogramming.com](https://explainprogramming.com)
-- Conference speaker at React 2019 etc
-- CTO & Lead Engineer on Easy Mileage Tracker and Proxipedia
+- Freelance Software Engineer, Trainer and Science Communicator - teaching people of all ages and knowledge levels (<a href="https://www.andrekovac.com/" class='external-link' target="_blank" rel="noreferrer">personal homepage</a>)
+- <a href="https://github.com/andrekovac/" class='external-link' target="_blank" rel="noreferrer">Open source contributor</a>, conference speaker and active on <a href="https://stackoverflow.com/users/3210677/andru" class='external-link' target="_blank" rel="noreferrer">StackOverFlow</a> (e.g. top 5% in JavaScript)
+- Former CTO - Assembled and lead a team of 10 developers
+- Hackathon addict 😅 - participated in <a href="https://devpost.com/Andrusch" class='external-link' target="_blank" rel="noreferrer">over 20 hackathons</a>.
+- Cognitive Science and Applied Maths graduate
+
+<div style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center;">
+    <picture style="margin: 0 10px;">
+    <img
+      src="https://user-images.githubusercontent.com/1945462/116975765-68fc5e00-acc0-11eb-9b40-65972d1cc593.png"
+      alt="Andre React Conference Speaker"
+    />
+  </picture>
+  <picture style="margin: 0 10px;">
+    <img
+      src="https://user-images.githubusercontent.com/1945462/116975361-d5c32880-acbf-11eb-977b-2204268f34ec.png"
+      alt="Andre Science Communication Stage"
+    />
+  </picture>
+  <picture style="margin: 0 10px;">
+    <img
+      src="https://user-images.githubusercontent.com/1945462/116978694-58e67d80-acc4-11eb-83f3-c71623438902.png"
+      alt="Andre Science Festival"
+    />
+  </picture>
+    <picture style="margin: 0 10px;">
+    <img
+      src="https://user-images.githubusercontent.com/1945462/116975878-9cd78380-acc0-11eb-96d0-840c5abc0de9.png"
+      alt="Andre Hackathon"
+    />
+  </picture>
+</div>
 
 ---
 
