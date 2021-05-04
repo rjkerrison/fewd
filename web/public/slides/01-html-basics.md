@@ -453,9 +453,9 @@ Are self closing elements
 
 ## Code along
 
-### [Press release exercise](https://github.com/rjkerrison/fewd/raw/master/labs/press-release/press-release-starter-code.zip)
+### [Press release exercise](https://github.com/rjkerrison/fewd/raw/main/labs/press-release/press-release-starter-code.zip)
 
-> [solution](https://github.com/rjkerrison/fewd/raw/master/labs/press-release/press-release-solution-code.zip)
+> [solution](https://github.com/rjkerrison/fewd/raw/main/labs/press-release/press-release-solution-code.zip)
 
 ---
 

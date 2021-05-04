@@ -251,9 +251,9 @@ Viewport-percentage lengths define the **length** value relative to the size of 
 
 Relaxr was really impressed by your work last week and wants you to continue development on their landing page.
 
-Download the [starter code](https://github.com/rjkerrison/fewd/raw/master/homeworks/relaxr-2/relaxr-2-starter-code.zip)
+Download the [starter code](https://github.com/rjkerrison/fewd/raw/main/homeworks/relaxr-2/relaxr-2-starter-code.zip)
 
-[Final version](https://raw.githubusercontent.com/rjkerrison/fewd/master/homeworks/relaxr-2/starter-code/images/relaxr-blog.jpg)
+[Final version](https://raw.githubusercontent.com/rjkerrison/fewd/main/homeworks/relaxr-2/starter-code/images/relaxr-blog.jpg)
 
 ---
 
@@ -262,7 +262,7 @@ Download the [starter code](https://github.com/rjkerrison/fewd/raw/master/homewo
 ### Technical Requirements
 
 - Use flexbox in your CSS to achieve a two-column layout
-- Use the correct `Open Sans` Google Font typeface to style the text denoted in the [design file](https://github.com/rjkerrison/fewd/blob/master/homeworks/relaxr-2/starter-code/instructions.md) and according to the JPEG provided
+- Use the correct `Open Sans` Google Font typeface to style the text denoted in the [design file](https://github.com/rjkerrison/fewd/blob/main/homeworks/relaxr-2/starter-code/instructions.md) and according to the JPEG provided
 - Use proper filename conventions (lowercase, .html)
 - Use a single external CSS stylesheet to style all pages
 - Use a background image for the headers

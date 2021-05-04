@@ -630,7 +630,7 @@ h1 {
 
 #### Instructions
 
-1. Download the [starter code zip file](https://github.com/rjkerrison/fewd/raw/master/labs/cookie-recipe/cookie-recipe-starter-code.zip)
+1. Download the [starter code zip file](https://github.com/rjkerrison/fewd/raw/main/labs/cookie-recipe/cookie-recipe-starter-code.zip)
 2. Open the file **instructions.md** and follow the steps
 
 #### CSS

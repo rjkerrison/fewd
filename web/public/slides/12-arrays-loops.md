@@ -387,11 +387,11 @@ We'll see this in action in a future lesson…!
 
 ## Arrays and loops
 
-> [Starter code](https://github.com/rjkerrison/fewd/raw/master/labs/array-loops/array-loops-starter-code.zip)
+> [Starter code](https://github.com/rjkerrison/fewd/raw/main/labs/array-loops/array-loops-starter-code.zip)
 
 ???
 
-[Solution code](https://github.com/rjkerrison/fewd/raw/master/labs/array-loops/array-loops-solution-code.zip)
+[Solution code](https://github.com/rjkerrison/fewd/raw/main/labs/array-loops/array-loops-solution-code.zip)
 
 ---
 
