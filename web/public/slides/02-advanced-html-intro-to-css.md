@@ -262,7 +262,7 @@ Web browsers apply CSS rules to a document to affect how they are displayed. A C
 
 # Intro to Cascading Style Sheets (CSS)
 
-## How it looks?
+## What does it look like?
 
 ```html
 <h1>Hello World!</h1>
@@ -293,7 +293,7 @@ p {
 
 ## How does CSS actually work?
 
-### About the DOM Document Object Model (**DOM**) represents the
+### About the DOM
 
 Document Object Model (**DOM**) represents the document in the computer's memory. It combines the document's content with its style.
 
