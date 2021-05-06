@@ -653,7 +653,6 @@ Take a movie that you like and create a web page about the CV of one the charact
 Here are some examples
 
 - [Darth Vader](https://www.giraffecvs.co.uk/wp-content/uploads/2013/05/CVDarthVader_rev8-page-001.jpg)
-- [Darth Vader](http://uk.businessinsider.com/what-darth-vaders-resume-would-be-2015-12)
 - [Disney characters](https://ohmy.disney.com/movies/2017/02/27/imaginary-disney-character-resumes/)
 
 ---
