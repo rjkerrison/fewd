@@ -73,7 +73,7 @@ Wouldn't it be nice if we could simplify things?
 
 ### **Content box** vs **border box**
 
-[An interactive demo of the box model](http://guyroutledge.github.io/box-model/)
+[An interactive demo of the box model](https://rjkerrison.co.uk/box-model/)
 
 [By Guy Routledge](https://github.com/guyroutledge)
 
