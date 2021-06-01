@@ -133,14 +133,14 @@ var numberOfStudents = 10;
 
 ### Variable
 
-We can store lots of different types of information in variables.
+We can store lots of different types of information in variables. Each variable is of a different type.
 
-- `String` for text
-- `Integer` or `Float` for numbers
-- `Boolean` true or false values
-- `Array` collections of data
-- `Objects` contain series of `key:value`pairs
-- `Functions`
+- `string` for text
+- `number` for numbers (other programming languages distinguish between `integer` and `float`)
+- `boolean` true or false values
+- `array` collections of data
+- `objects` contain series of `key:value`pairs
+- `functions`
 
 ---
 
