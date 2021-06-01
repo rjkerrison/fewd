@@ -162,7 +162,7 @@ const answer = 'Warm';
 
 ### Strings
 
-Double vs single vs string literals quoted strings:
+Double vs single vs string literals (backtick ``` ` ```) quoted strings:
 
 ```js
 const singleQuote = 'They "purchased" it';
