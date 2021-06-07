@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  background-color: rgb(255, 0, 0);
+  padding: 10px;
+  border-color: black;
+  border-style: dashed dotted double;
+  border-width: 9px;
+}
+
+p {
+  background-color: #0000ff;
+  color: white;
+  border-color: black;
+  border-style: groove;
+  border-width: 9px;
+  padding: 0.5em;
+  font-size: 20px;
+}
+
+code {
+  background-color: hsl(100, 100%, 100%);
+  color: hsl(24, 5%, 0%);
+  padding: 2px;
+  border: 2px solid green;
+  font-size: 0.75em;
+}
+
+p code {
+  background: rgb(255, 0, 0);
+  color: white;
+  border-color: yellow;
+}
+
+section p {
+  border: none;
+  background: red;
+}
+
+section p code {
+  background: green;
+}
+
+section > p {
+  background: purple;
+}
+
+.special {
+  font-size: 2em;
+}
+
+section .special {
+  border-width: 5px;
+  font-size: 1em;
+}
+
+.special {
+  font-size: 5em;
+}

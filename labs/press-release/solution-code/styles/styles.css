@@ -1,0 +1,39 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: hsl(104, 33%, 50%);
+  color: #ede6ea;
+  padding: 40px;
+}
+
+h1 {
+  color: hsl(208, 55%, 85%);
+}
+
+li {
+  border-width: 2px;
+  border-color: black;
+  border-style: dotted;
+}
+
+ul li ul {
+  border: 4px solid pink;
+}
+
+#europe {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/2560px-Flag_of_Europe.svg.png);
+  background-size: contain;
+}
+
+#europe .world-series-winners {
+  background-color: silver;
+  background-color: blue;
+}
+
+#europe .world-series-winners {
+  background-color: silver;
+  background-color: pink;
+}
+
+.world-series-winners {
+  background-color: gold;
+}

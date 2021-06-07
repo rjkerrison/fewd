@@ -1,0 +1,15 @@
+blockquote {
+  background: black;
+  color: white;
+  padding: 1em;
+  font-style: italic;
+  font-size: 24px;
+  font-family: 'Satisfy', cursive;
+}
+
+blockquote em {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 1.25em;
+  font-style: normal;
+}

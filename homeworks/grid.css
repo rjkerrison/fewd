@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+
+/* Flex grid */
+
+.grid-row {
+  border: 4px solid;
+  display: flex;
+  flex-direction: row;
+}
+
+.grid-column {
+  border: 4px dashed black;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: auto;
+}
+
+.grid-quarter {
+  max-width: 25%;
+}
+.grid-third {
+  max-width: 33.333%;
+}
+.grid-half {
+  max-width: 50%;
+}
+.grid-two-third {
+  max-width: 66.667%;
+}
+.grid-three-quarter {
+  max-width: 75%;
+}
+.grid-whole {
+  max-width: 100%;
+}
+
+.grid-orange {
+  background-color: orange;
+}
+
+/* */
+
+h2,
+h3 {
+  text-align: center;
+}
+
+.grid-row.grey {
+  background-color: #ccc;
+}
