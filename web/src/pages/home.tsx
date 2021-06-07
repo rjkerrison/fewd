@@ -7,9 +7,9 @@ import Title from '../components/title';
 import Page from '../components/page';
 
 const Weeks = [
-  'HTML & CSS Basics',
-  'Box Model, CSS Selectors, Specificity & Floats',
-  'Flexbox & Positioning',
+  'Orientation etc',
+  'Not sure',
+  'Etc',
   'Responsive Web development',
   'Intro to JavaScript & Document Object Model (DOM)',
   'Conditional statements, arrays & loops',
@@ -32,7 +32,7 @@ const Home: React.FC = () => (
     <Title title="Home" />
     <Header />
     <StyledMain>
-      <h1>Welcome to FEWD London 🇬🇧 </h1>
+      <h1>Welcome to SEI London Flex 🇬🇧 </h1>
       <nav>
         <ul>
           {Weeks.map((week, i) => (

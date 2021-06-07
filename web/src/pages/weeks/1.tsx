@@ -59,9 +59,10 @@ const weekConfig = {
   weekNumber: 1,
   resources: resources,
   bonuses: bonuses,
-  firstLessonTitle: 'Orientation and introduction to HTML',
-  secondLessonTitle: 'Advanced HTML & Intro to CSS',
-  homeworkPath: '/week-1/lesson-2#43',
+  firstLessonTitle: 'Tuesday: Orientation',
+  secondLessonTitle: 'Thursday: Git + Intro to HTML + Dev Tools',
+  thirdLessonTitle: 'Saturday: Semantic HTML and Intro to CSS',
+  homeworkPath: 'https://git.generalassemb.ly/JackMay/LDN-CURRICULUM-2020/tree/master/w_01/html-coppa-club',
 };
 
 const Week1 = () => <Week {...weekConfig} />;

@@ -8,6 +8,7 @@ export interface WeekProps {
   bonuses?: string[][];
   firstLessonTitle: string;
   secondLessonTitle: string;
+  thirdLessonTitle?: string;
   homeworkPath?: string;
 }
 
@@ -67,13 +68,16 @@ const Week: React.FC<WeekProps> = ({
   bonuses,
   firstLessonTitle,
   secondLessonTitle,
+  thirdLessonTitle,
   homeworkPath,
 }) => {
-  const secondLesson = weekNumber * 2;
+  const thirdLesson = weekNumber * 3;
+  const secondLesson = thirdLesson - 1;
   const firstLesson = secondLesson - 1;
 
   const firstLessonPath = `/week-${weekNumber}/lesson-${firstLesson}`;
   const secondLessonPath = `/week-${weekNumber}/lesson-${secondLesson}`;
+  const thirdLessonPath = `/week-${weekNumber}/lesson-${thirdLesson}`;
 
   return (
     <WeekPage>
@@ -91,6 +95,10 @@ const Week: React.FC<WeekProps> = ({
           <li>
             Lesson {secondLesson}:{' '}
             <Link to={secondLessonPath}>{secondLessonTitle}</Link>
+          </li>
+          <li>
+            Lesson {secondLesson}:{' '}
+            <Link to={thirdLessonPath}>{thirdLessonTitle ?? 'Saturday'}</Link>
           </li>
         </ul>
         <Note />
@@ -116,7 +124,11 @@ const Week: React.FC<WeekProps> = ({
 
       {homeworkPath ? (
         <p className="homework">
-          <Link to={homeworkPath}>Homework</Link>
+          {homeworkPath.startsWith('https://') ? (
+            <a href={homeworkPath}>Homework</a>
+          ) : (
+            <Link to={homeworkPath}>Homework</Link>
+          )}
         </p>
       ) : null}
     </WeekPage>
