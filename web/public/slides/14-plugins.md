@@ -115,8 +115,8 @@ Example
 
 ## Functionality written by Pedro
 
-- [Accordion 🪗](https://github.com/pataruco/fewd/raw/main/labs/accordion/accordion-solution-code.zip)
-- [Magic scroll 🪄](https://github.com/pataruco/fewd/raw/main/labs/magic-scroll/magic-scroll-solution-code.zip)
+- [Accordion 🪗](https://github.com/pataruco/fewd/raw/master/labs/accordion/accordion-solution-code.zip)
+- [Magic scroll 🪄](https://github.com/pataruco/fewd/raw/master/labs/magic-scroll/magic-scroll-solution-code.zip)
 
 ---
 
