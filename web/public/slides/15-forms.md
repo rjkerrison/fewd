@@ -58,13 +58,17 @@ What type of information might we want to send in a form?
 # Forms inputs
 
 - `text`
-- `textarea`
 - `email`, `password`, `url`, `search`, `number`, `tel`, `color`, `date` `file`
 - `range`
 - `select` menu (dropdown)
 - `checkboxes`
 - `radio` buttons
 - `submit`, `reset`, `button`
+
+## Other related html tags
+
+- `textarea`
+- `button`
 
 ---
 
@@ -130,7 +134,11 @@ Attributes on the inputs determine:
 Special buttons
 
 ```html
-<input type="submit" value="Go!" /> <input type="reset" value="Reset" />
+<input type="submit" value="Go!" />
+```
+
+```html
+<input type="reset" value="Reset" />
 ```
 
 Creates a file upload element
@@ -142,7 +150,7 @@ Creates a file upload element
 Creates clickable button
 
 ```html
-<input type="button" /> <button>I am a button<button></button></button>
+<input type="button" />
 ```
 
 ---
