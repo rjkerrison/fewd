@@ -162,7 +162,7 @@ async function askForData() {
 
 Weather API
 
-[Starter code](https://github.com/pataruco/fewd/raw/main/labs/weather-api/weather-api-starter-code.zip)
+[Starter code](https://github.com/pataruco/fewd/raw/master/labs/weather-api/weather-api-starter-code.zip)
 
 ---
 
@@ -230,7 +230,7 @@ console.log(carData.details.color);
 
 Giphy bank
 
-[Starter code](https://github.com/pataruco/fewd/raw/main/labs/giphy-search-api/giphy-search-api-starter-code.zip)
+[Starter code](https://github.com/pataruco/fewd/raw/master/labs/giphy-search-api/giphy-search-api-starter-code.zip)
 
 ---
 
